@@ -13,7 +13,7 @@ some data should appear below the input area!
 
 ## Project Info
 
-[Bootstrap](getboostrap.com) and ***JQuery*** are used for this small project. No ***Task-Manager*** was needed.
+[Bootstrap](https://getbootstrap.com/) and ***JQuery*** are used for this small project. No ***Task-Manager*** was needed.
 
 ## Live-Version
 

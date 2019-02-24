@@ -2,7 +2,7 @@
 
 This is my first attempt of handling data retrived from an API. :bowtie:
 
-## Try this :poo: out! 
+## Try this :poop: out! 
 
 Type for example ***spider-man*** in the searchfield and press ***search*** then after a short while
 some data should appear below the input area!

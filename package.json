@@ -1,8 +1,8 @@
 {
   "name": "marvel-character-search",
-  "description": "In this exercise, students will write a JavaScript class that is used to connect to the Marvel API and look for a character by name.",
+  "description": "Old exercise from DCI, students will write a JavaScript class that is used to connect to the Marvel API and look for a character by name.",
   "version": "1.0.0",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "jquery": "^3.2.1"

@@ -1,4 +1,4 @@
-## Getting displaying Data from the [Marvel Developer API](https://developer.marvel.com/)
+## Getting and displaying Data from the [Marvel Developer API](https://developer.marvel.com/)
 
 This is my first attempt of handling data retrived from an API. :bowtie:
 

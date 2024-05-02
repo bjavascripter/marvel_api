@@ -54,7 +54,7 @@ class showResults {
 	printResults(data) {
 		console.log(data);
 		$('.character-list').html('');
-		data.data.results.forEach((item) => {
+		data.results.forEach((item) => {
 			$('.character-list').append(`
         <li class="list-item" data-id="1011054">
             <div class="name">${item.name}</div>

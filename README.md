@@ -23,7 +23,7 @@ Here are a couple of possibilities!
 
 ## Live-Version
 
-See the application live [here](https://bjarnesoerensen.github.io/marvel_api/)
+See the application live [here](https://bjavascripter.github.io/marvel_api/)
 
 ## Local Version
 
